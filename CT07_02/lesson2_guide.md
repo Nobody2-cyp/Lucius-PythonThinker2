@@ -1,4 +1,4 @@
-# Lesson 2 - Introduction to while loops
+<!-- # Lesson 2 - Introduction to while loops
 
 ## Recap 1: For Loop
 **Task: write a separate 'for' loop to print the following
@@ -74,4 +74,8 @@ Using the while loop, ask 3 general knowledge questions
 Bonus:
 1. Add a score system
 2. Add an ability for users to skip by saying “skip”
-3. Disqualify user when they have tried too many times
+3. Disqualify user when they have tried too many times --> -->
+i = 0
+while i < 21: 
+print(i)
+i = i +1
